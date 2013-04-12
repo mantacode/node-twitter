@@ -2,6 +2,8 @@
 
 node-twitter is a node.js module for interacting with the Twitter API.
 
+This is a fork of https://github.com/istrategylabs/node-twitter and I've added the ability to push photos to twitter by external image URL versus having to have the file local on the file-system. The change is in the '_createPostRequest' method in 'UploadClient.js' 
+
 # Examples
 
 ## REST
