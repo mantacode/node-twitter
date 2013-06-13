@@ -1,6 +1,6 @@
 {
   "name": "node-twitter",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "A node.js module for interacting with the Twitter API.",
   "keywords": [
     "twitter"
