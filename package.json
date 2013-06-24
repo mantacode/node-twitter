@@ -1,6 +1,6 @@
 {
   "name": "node-twitter",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "A node.js module for interacting with the Twitter API.",
   "keywords": [
     "twitter"
@@ -25,7 +25,7 @@
     "url": "git://github.com/istrategylabs/node-twitter.git"
   },
   "dependencies": {
-	"request": "git+ssh://git@github.com:mantacode/request.git",
+	"request": "git+ssh://git@github.com:mantacode/request.git"
   },
   "engine": "node >= 0.6.x",
   "licenses": [
